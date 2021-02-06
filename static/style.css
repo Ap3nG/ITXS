@@ -11,3 +11,7 @@ header {
 .navbar-brand {
     color:red!important;
 }
+
+.footer {
+        display: block;
+}
